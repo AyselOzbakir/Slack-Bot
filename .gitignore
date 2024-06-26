@@ -1,4 +1,4 @@
-
-.env              
-/Bott.py     
-*.log             
+# Python
+__pycache__/
+*.pyc
+.env
